@@ -25,7 +25,7 @@ pip install googletrans-py
 You can also install the project directly from this repository.
 
 ```shell
-pip install git+https://github.com/StarkBotsIndustries/googletrans.git
+pip install git+https://github.com/inspectorr/googletrans.git
 ```
 
 ## Credits
